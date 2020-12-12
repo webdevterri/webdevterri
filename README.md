@@ -10,16 +10,16 @@ I'm interested in doing bug bounties and also freelance private investigations u
 
 I'm an idea person.  :thought_balloon:  :thought_balloon:  :thought_balloon: I have tons of ideas (notebooks filled with ideas). I imagine working with others remotely through Github to create tools that others will find useful and enjoy.
 
+### Knows:
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
- <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+### Learning:
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-php-777BB4?style=flat&logo=php&logoColor=FFFFFF">
+ 
+### Tools:
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 ---
 
-### How I feel like when I'm coding:
-![gif of me coding](https://media.giphy.com/media/4527NkUK98k5w4MOBY/giphy.gif)
 
 <!--
 **webdevterri/webdevterri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
