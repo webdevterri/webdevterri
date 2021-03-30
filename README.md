@@ -13,7 +13,7 @@ I'm an idea person.  :thought_balloon:  :thought_balloon:  :thought_balloon: I h
 ### Knows:
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 ### Learning:
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-php-777BB4?style=flat&logo=php&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
  
 ### Tools:
 PyCharm | <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/-intellijidea-000000?style=flat&logo=intellijidea&logoColor=white">
@@ -23,6 +23,8 @@ PyCharm | <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=g
 
 
 <!--
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-php-777BB4?style=flat&logo=php&logoColor=FFFFFF">
 **webdevterri/webdevterri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
