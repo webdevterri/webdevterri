@@ -1,12 +1,11 @@
 # Hello, World!
-My name is Terri.
+My name is Terri. I go by **webdevterri**.
 
 ![Matrix gif](https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif) 
 
 Currently I'm learning **Python** programming language.
-I'm interested in doing bug bounties and also freelance private investigations using OSINT techniques. Also, I'd like to learn how to make **GUIs** for different programs and scripts that are currently only available to use in the terminal here on Github.
 
-I'd like to use programming to make tools/software for making art, music and writing (ie. datamoshing, abstract art, experimental stuff, etc.)
+I'd like to use programming to make tools/software for making art, music and writing (ie. datamoshing, abstract art, experimental stuff, etc.) Also, I would like to make automation tools and bots (not for spamming!)
 
 :floppy_disk: Another interest of mine is data archiving ("digital hoarding"). I want to learn web scraping using Python and write software/tools that aid in web scraping and archiving. So all-in-all, I'd like to focus on Python and become proficient at it. :floppy_disk:
 
