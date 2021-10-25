@@ -7,11 +7,8 @@ I'm an idea person.  :thought_balloon:  :thought_balloon:  :thought_balloon: I h
 
 ### Goals & Interests:
 
-#### Shopify
-I started looking into Shopify theme developement and started learning Liquid. I need to learn JS. I'd like to make Shopify themes and eventually do custom themes for businesses/brands.
-
 #### Using Python
-I'd like to use programming to make tools/software for making art, music and writing (ie. datamoshing, abstract art, experimental stuff, etc.) Also, I would like to make automation tools and bots (not for spamming!) 
+I'd like to use Python to make tools/software for making art, music and writing (ie. datamoshing, abstract art, experimental stuff, etc.) Also, I would like to make automation tools and bots (not for spamming!) 
 
 :floppy_disk: Another interest of mine is data archiving ("digital hoarding"). I want to learn web scraping using Python and write software/tools that aid in web scraping and archiving. So all-in-all, I'd like to focus on Python and become proficient at it. :floppy_disk:
 
@@ -21,9 +18,7 @@ I'd like to use programming to make tools/software for making art, music and wri
 #### Knows:
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> | <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> | JSON
 #### Learning:
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> | Javascript | Liquid (Shopify Template Language)
-#### Plan (or Hope) to Learn in the Future:
-GraphQL | Gatsby | Ruby | PHP
+<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> | Javascript
 
 --- 
 ### Tools:
