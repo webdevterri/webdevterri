@@ -1,7 +1,7 @@
 # Hello, World!
 My name is Terri. I go by **webdevterri**.
 
-I'm currently learning **Python** programming language through Udemy. (Almost done!) And I'm learning Javascript on Scrimba.
+I'm currently going through Scrimba's Frontend Developers Course, where I'll review HTML and CSS and learn advanced JavaScript and Reach JS. I actually already finished the free JavaScript course and it was amazing. So amazing tha I subscribed to Scrimba Pro. I highly recommend it!
 
 I'm an idea person.  :thought_balloon:  :thought_balloon:  :thought_balloon: I have tons of ideas (notebooks filled with ideas). I imagine working with others remotely through Github to create tools that others will find useful and enjoy.
 
