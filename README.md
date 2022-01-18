@@ -1,11 +1,16 @@
 # Hello, World!
 My name is Terri. I go by **webdevterri**.
-
-I'm currently going through Scrimba's Frontend Developers Course, where I'll review HTML and CSS and learn advanced JavaScript and React JS. I actually already finished the free JavaScript course and it was amazing. So amazing tha I subscribed to Scrimba Pro. I highly recommend it!
-
+## What I'm up to
+I'm currently going through Scrimba's Frontend Developers Course, where I'll review HTML and CSS and learn advanced JavaScript and React JS. I actually already finished the free JavaScript course and it was amazing. So amazing that I subscribed to Scrimba Pro. I highly recommend it! I will be posting my own (customized) projects here as repos.
+## Who am I?
 I'm an idea person.  :thought_balloon:  :thought_balloon:  :thought_balloon: I have tons of ideas (notebooks filled with ideas). I imagine working with others remotely through Github to create tools that others will find useful and enjoy.
 
 ### Goals & Interests:
+
+#### Using JavaScript
+I want to create utility web apps and browser extensions.
+
+Also, I like to build websites. I've made many WordPress sites but I'm in the process of moving away from WordPress and going back to static sites that I code from scratch. I think WordPress is excessive for a lot of people's needs and want to help people move back to using static sites, when appropriate.
 
 #### Using Python
 I'd like to use Python to make tools/software for making art, music and writing (ie. datamoshing, abstract art, experimental stuff, etc.) Also, I would like to make automation tools and bots (not for spamming!) 
@@ -18,9 +23,9 @@ I'd like to use Python to make tools/software for making art, music and writing 
 #### Knows:
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> | <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> | JSON
 #### Learning:
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> | Javascript
+<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 #### Will Learn:
-React JS
+React JS | Tailwind CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webdevterri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
