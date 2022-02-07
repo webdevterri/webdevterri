@@ -5,7 +5,7 @@ I'm currently going through Scrimba's Frontend Developers Course and JavaScript 
 ## Who am I?
 I'm an idea person.  :thought_balloon:  :thought_balloon:  :thought_balloon: I have tons of ideas (notebooks filled with ideas). I imagine working with others remotely through Github to create tools that others will find useful and enjoy.
 
-### Goals & Interests:
+<!-- ### Goals & Interests:
 
 #### Using JavaScript
 I want to create utility apps and browser extensions.
@@ -15,7 +15,7 @@ Also, I like to build websites. I've made many WordPress sites but I'm in the pr
 #### Using Python
 I'd like to use Python to make tools/software for making art, music and writing (ie. datamoshing, abstract art, experimental stuff, etc.) Also, I would like to make automation tools and bots (not for spamming!) 
 
-:floppy_disk: Another interest of mine is data archiving ("digital hoarding"). I want to learn web scraping using Python and write software/tools that aid in web scraping and archiving. So all-in-all, I'd like to focus on Python and become proficient at it. :floppy_disk:
+:floppy_disk: Another interest of mine is data archiving ("digital hoarding"). I want to learn web scraping using Python and write software/tools that aid in web scraping and archiving. So all-in-all, I'd like to focus on Python and become proficient at it. :floppy_disk: -->
 
 ---
 ### Skills
