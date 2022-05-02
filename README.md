@@ -1,7 +1,7 @@
 # Hello, World!
 My name is Terri. I go by **webdevterri**.
 ## What I'm up to
-I'm currently going through Scrimba's Frontend Developers Course and JavaScript Bootcamp, where I'll review HTML and CSS and learn advanced JavaScript and React JS. I highly recommend Scrimba Pro if you want to learn web development! I will be posting my own (customized) projects here as repos (possibly deployed).
+I'm currently going through Scrimba's Frontend Developers Course and JavaScript Bootcamp, where I'll review HTML and CSS and learn **advanced JavaScript** and **React JS**. I highly recommend Scrimba Pro if you want to learn web development! I will be posting my own (customized) projects here as repos (possibly deployed).
 ## Who am I?
 I'm an idea person.  :thought_balloon:  :thought_balloon:  :thought_balloon: I have tons of ideas (notebooks filled with ideas). I imagine working with others remotely through Github to create tools that others will find useful and enjoy.
 
@@ -23,9 +23,7 @@ I'd like to use Python to make tools/software for making art, music and writing 
 #### Knows:
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> | <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> | Tailwind CSS
 #### Learning:
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-#### Will Learn:
-React JS
+<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> | React JS
 #### Want to Learn:
 Ruby on Rails
 
