@@ -21,9 +21,9 @@ I'd like to use Python to make tools/software for making art, music and writing 
 ### Skills
 
 #### Knows:
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> | <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> | Tailwind CSS
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> | <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> | Tailwind CSS | <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 #### Learning:
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> | React JS
+<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> | React JS
 #### Want to Learn:
 Ruby on Rails
 
