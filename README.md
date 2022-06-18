@@ -2,8 +2,9 @@
 My name is Terri. I go by **webdevterri**.
 ## What I'm up to
 I'm currently going through Scrimba's Frontend Developers Course and JavaScript Bootcamp, where I'll review HTML and CSS and learn **advanced JavaScript** and **React JS**. I highly recommend Scrimba Pro if you want to learn web development! I will be posting my own (customized) projects here as repos (possibly deployed).
+I'm also learning other things: Accessibility, UI/UX, Shopify theme developement, etc.
 ## Who am I?
-I'm an idea person.  :thought_balloon:  :thought_balloon:  :thought_balloon: I have tons of ideas (notebooks filled with ideas). I imagine working with others remotely through Github to create tools that others will find useful and enjoy.
+I'm an idea person.  :thought_balloon:  :thought_balloon:  :thought_balloon: I have tons of ideas (notebooks filled with ideas). I imagine working with others remotely, thanks to the wonderful invention of the internet, to create tools that others will find useful and enjoy.
 
 <!-- ### Goals & Interests:
 
@@ -31,7 +32,7 @@ Ruby on Rails
 
 --- 
 ### Tools:
-PyCharm | <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> | <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> | <img src="https://img.shields.io/badge/-intellijidea-000000?style=flat&logo=intellijidea&logoColor=white">
+PyCharm | <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> | <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> | <img src="https://img.shields.io/badge/-intellijidea-000000?style=flat&logo=intellijidea&logoColor=white"> | Figma
 
 ![Serial-Experiments-Lain-gif](https://media.giphy.com/media/PZrjGkr334fXa/giphy.gif)
 ---
