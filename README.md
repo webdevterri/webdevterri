@@ -1,8 +1,7 @@
 # Hello, World!
 My name is Terri. I go by **webdevterri**.
 ## What I'm up to
-I'm currently going through Scrimba's Frontend Developers Course and JavaScript Bootcamp, where I'll review HTML and CSS and learn **advanced JavaScript** and **React JS**. I highly recommend Scrimba Pro if you want to learn web development! I will be posting my own (customized) projects here as repos (possibly deployed).
-I'm also learning other things: Accessibility, UI/UX, Shopify theme developement, etc.
+I'm currently getting into Data Analytics, so I'm learning MySQL, Tableau, Power BI and Excel.
 ## Who am I?
 I'm an idea person.  :thought_balloon:  :thought_balloon:  :thought_balloon: I have tons of ideas (notebooks filled with ideas). I imagine working with others remotely, thanks to the wonderful invention of the internet, to create tools that others will find useful and enjoy.
 
@@ -24,15 +23,16 @@ I'd like to use Python to make tools/software for making art, music and writing 
 #### Knows:
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> | <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> | Tailwind CSS | <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 #### Learning:
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> | React JS | Shopify Theme Development | Accessibility
+MySQL | Tableau | Power BI | Excel
+<!--
 #### Want to Learn:
 Ruby on Rails
-
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webdevterri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 --- 
 ### Tools:
-PyCharm | <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> | <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> | <img src="https://img.shields.io/badge/-intellijidea-000000?style=flat&logo=intellijidea&logoColor=white"> | Figma
+MySQL Workbench | Tableau | Power BI | Excel | <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> | <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> |
 
 ![Serial-Experiments-Lain-gif](https://media.giphy.com/media/PZrjGkr334fXa/giphy.gif)
 ---
